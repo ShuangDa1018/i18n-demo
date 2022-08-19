@@ -1,0 +1,3 @@
+[submodule "i18n-demo"]
+	path = i18n-demo
+	url = https://github.com/ShuangDa1018/i18n-demo.git
